@@ -1,4 +1,4 @@
-Technical Writing - Research Log
+#Technical Writing - Research Log
 
 Week 2 - My initial thoughts and understanding of technical writing was not much of anything. I believed that such writing
 was for manuels and instructions, but now I see that it is like a bridge between those who are experts in their field to those
@@ -9,7 +9,7 @@ Microsoft Word's programming a little better to adjust the placement of the pict
 usablility tests went rather well. There were unique interptations of my build, but with the pictures it was hard to deviate 
 from the given example too drastically.
 
-The reasoning behind my decision to include large, easy pictures that one could follow and the incorpuration of using more
+The *reasoning* behind my decision to include large, easy pictures that one could follow and the incorpuration of using more
 wordy instructions was most certainly based on the percieved audience I thought I would have following my instructions. 
 Because we are in a college class I believed that the inclusion of written instruction might be more helpful for those who
 wanted to make sure that their build was as close to correct as possible, but added pictures for those who are more visual
