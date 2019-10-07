@@ -1,4 +1,4 @@
-#Technical Writing - Research Log
+# Technical Writing - Research Log
 
 Week 2 - My initial thoughts and understanding of technical writing was not much of anything. I believed that such writing
 was for manuels and instructions, but now I see that it is like a bridge between those who are experts in their field to those
